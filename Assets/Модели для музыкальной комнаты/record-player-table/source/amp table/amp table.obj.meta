@@ -3,7 +3,32 @@ guid: 201c09eab86c1054f8e4b863f4b3e40c
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ampMat
+    second: {fileID: 2100000, guid: 60d6ef04e5796944a9198d15300d52ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: record_deckMat
+    second: {fileID: 2100000, guid: 6e7c04e0226f89c40ae1fc6d41cd4bd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: recordsMat
+    second: {fileID: 2100000, guid: 518ca9e7392e9d944a122c11f054c86e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: speakersMat
+    second: {fileID: 2100000, guid: 2ab1e6a190fb8544cb009202b6d33133, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: woodMat
+    second: {fileID: 2100000, guid: 4f1654b20c8e44c439faf05b8e32d393, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
